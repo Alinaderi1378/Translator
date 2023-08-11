@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="sound">صوت</string>
+    <string name="langs">زبان ها</string>
+    <string name="tutariuls">آموزش</string>
+    <string name="info">درباره ما</string>
+    <string name="historyinformation">اطلاعات تاریخی</string>
+</resources>
